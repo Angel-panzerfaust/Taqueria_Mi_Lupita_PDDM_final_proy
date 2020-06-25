@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Lupita tacos</string>
+    <string name="mainbtnIdiomaTextxml">Language</string>
+    <string name="mainlblDatosClientexml">Client info </string>
+    <string name="maintxtNombrexml">First and last name</string>
+    <string name="maintxtTelefonoxml">Phone</string>
+    <string name="mainLblEnviarAxml">Send to:</string>
+    <string name="maintxtCallexml">Street</string>
+    <string name="maintxtNumeroxml">Address</string>
+    <string name="maintxtColoniaxml">Suburb</string>
+    <string name="mainbtnGuardarxml">Save</string>
+
+    <string name="mainCampoVaciojava">This field is empty</string>
+    <string name="mainAlertDialogeLanguageTitlejava">Language</string>
+    <string name="mainAlertDialogeLanguageMessagejava">Select your prefered language</string>
+    <string name="mainAlertDialogeLanguageNrgativejava">Spanish</string>
+    <string name="mainAlertDialogeLanguagePositivejava">Englsh</string>
+
+    <string name="ordrlblMenuItem1xml">Order of fried mashed patatoes tacos (5 tacos)</string>
+    <string name="ordrlblMenuItem2xml">Orden of fried ground beef tacos (5 tacos)</string>
+    <string name="ordrlblMenuItem3xml">Orden de steak tacos (5 tacos)</string>
+    <string name="ordrbtnCambiarDirxml">Change client info</string>
+    <string name="ordrbtnConfirmarxml">Order</string>
+
+    <string name="ordrStringNombrejava">Name: </string>
+    <string name="ordrStringTelefonojava">Phone: </string>
+    <string name="ordrStringCallejava">Street: </string>
+    <string name="ordrStringNumerojava">Adress: </string>
+    <string name="ordrStringColoniajava">Suburb: </string>
+
+    <string name="ordrStringToastmssgjava">Orer not specified, please select an ammount of orders</string>
+    <string name="ordrAlertDiaMenu1java">Mashed p. tacos</string>
+    <string name="ordrAlertDiaMenu2java">ground b. tacos</string>
+    <string name="ordrAlertDiaMenu3java">Steak tacos</string>
+
+    <string name="ordrAlertDiaCantidadjava">Cuantity</string>
+    <string name="ordrAlertDiaOrdenjava">Order</string>
+    <string name="ordrAlertDiaImportejava">Import</string>
+    <string name="ordrAlertDiaConfirmMssgjava">Please confirm if the odrer is correct</string>
+    <string name="ordrAlertDiaConfirmMssgPosjava">Confirm</string>
+    <string name="ordrAlertDiaConfirmMssgNegjava">Cancel</string>
+</resources>
